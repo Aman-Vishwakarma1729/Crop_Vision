@@ -1,0 +1,14 @@
+names:
+- Black Rot
+- Healthy
+- Leaf Blight
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: grapes_disease_detection
+  url: https://universe.roboflow.com/vit-wq09m/grapes_disease_detection/dataset/1
+  version: 1
+  workspace: vit-wq09m
+test: D:\J-Com\PlantClassification_PlantHealthClasiification_LeafDiseaseDetection\Disease_detection_model\Grape_disease_detection\Grapes_Disease_Detection-1\test\images
+train: D:\J-Com\PlantClassification_PlantHealthClasiification_LeafDiseaseDetection\Disease_detection_model\Grape_disease_detection\Grapes_Disease_Detection-1\train\images
+val: D:\J-Com\PlantClassification_PlantHealthClasiification_LeafDiseaseDetection\Disease_detection_model\Grape_disease_detection\Grapes_Disease_Detection-1\valid\images

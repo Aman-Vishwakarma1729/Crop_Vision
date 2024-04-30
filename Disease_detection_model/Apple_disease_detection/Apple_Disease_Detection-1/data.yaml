@@ -1,0 +1,14 @@
+names:
+- Black Rot
+- Healthy
+- Scab
+nc: 3
+roboflow:
+  license: Public Domain
+  project: apple_disease_detection-krinp
+  url: https://universe.roboflow.com/deep-learning-xwexs/apple_disease_detection-krinp/dataset/1
+  version: 1
+  workspace: deep-learning-xwexs
+test: D:\J-Com\PlantClassification_PlantHealthClasiification_LeafDiseaseDetection\Disease_detection_model\Apple_disease_detection\Apple_Disease_Detection-1\test\images
+train: D:\J-Com\PlantClassification_PlantHealthClasiification_LeafDiseaseDetection\Disease_detection_model\Apple_disease_detection\Apple_Disease_Detection-1\train\images
+val: D:\J-Com\PlantClassification_PlantHealthClasiification_LeafDiseaseDetection\Disease_detection_model\Apple_disease_detection\Apple_Disease_Detection-1\valid\images
